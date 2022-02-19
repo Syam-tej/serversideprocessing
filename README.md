@@ -113,7 +113,7 @@ urlpatterns = [
 ]
 ~~~
 ## OUTPUT:
-![](serve.png)
+![](server.png)
 
 
 
