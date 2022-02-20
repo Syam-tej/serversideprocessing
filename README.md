@@ -28,7 +28,7 @@ Link the html document to urls.py
 
 ### Step 8:
 
-Publish the website in the url: http://kodurusanathkumarreddy.student.saveetha.in:8000
+Publish the website  
 
 ## PROGRAM :
 ### HTML Code:
@@ -43,7 +43,7 @@ Publish the website in the url: http://kodurusanathkumarreddy.student.saveetha.i
     <style>
         body{
             text-align: center;
-            background-color: aqua;
+            background-color: red;
         }
         .maindiv{
             margin-left:400px;
@@ -51,7 +51,7 @@ Publish the website in the url: http://kodurusanathkumarreddy.student.saveetha.i
             border-style: dashed;
             width: 550px;
             height: 300px;
-            background-color: aquamarine;
+            background-color: orange;
         }
         h1{
             text-decoration: underline;
@@ -76,7 +76,7 @@ Publish the website in the url: http://kodurusanathkumarreddy.student.saveetha.i
         <br>
         <br>
         <footer>
-            Developed by:Koduru Sanath Kumar Reddy
+            Developed by:Shyam tej
         </footer>
     </div>
 </body>
